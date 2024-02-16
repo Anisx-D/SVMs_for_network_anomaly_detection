@@ -1,1 +1,1 @@
-# evaluating different SVM kernels for detecting malicious network activity 
+# Evaluating different SVM kernels for detecting malicious network activity 
