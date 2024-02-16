@@ -1,1 +1,1 @@
-# SVMs_for_network_anomaly_detection
+# evaluating different SVM kernels for detecting malicious network activity 
